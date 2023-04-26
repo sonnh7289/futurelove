@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/futurelove/static/css/main.6eba8c7d.css",
-    "main.js": "/futurelove/static/js/main.5c57c56a.js",
+    "main.js": "/futurelove/static/js/main.1f2ad833.js",
     "static/js/787.06f824f0.chunk.js": "/futurelove/static/js/787.06f824f0.chunk.js",
-    "static/media/iconHeart.svg": "/static/media/iconHeart.e9ee4561b3cfa19fc4ef.svg",
+    "static/media/iconHeart.svg": "/futurelove/static/media/iconHeart.e9ee4561b3cfa19fc4ef.svg",
     "index.html": "/index.html",
     "main.6eba8c7d.css.map": "/futurelove/static/css/main.6eba8c7d.css.map",
-    "main.5c57c56a.js.map": "/futurelove/static/js/main.5c57c56a.js.map",
+    "main.1f2ad833.js.map": "/futurelove/static/js/main.1f2ad833.js.map",
     "787.06f824f0.chunk.js.map": "/futurelove/static/js/787.06f824f0.chunk.js.map"
   },
   "entrypoints": [
     "/futurelove/static/css/main.6eba8c7d.css",
-    "/futurelove/static/js/main.5c57c56a.js"
+    "/futurelove/static/js/main.1f2ad833.js"
   ]
 }
